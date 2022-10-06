@@ -1,4 +1,4 @@
-package com.vattenfall.movieapp.movie.service;
+package com.vattenfall.movieapp.service;
 
 import com.vattenfall.movieapp.movie.model.Movie;
 import com.vattenfall.movieapp.movie.repository.MovieRepository;
